@@ -7,6 +7,6 @@ void main()
     printf("ENTER THE TWO NUMBERS YOU WANT TO ADD \n");
     scanf("%d %d",&a,&b); //taking input of two numbers
     sum=a+b; //adding the numbers
-    printf("sum = %d",sum); //rinting the sum
+    printf("sum = %d",sum); //printing the sum
     getch();
 };
